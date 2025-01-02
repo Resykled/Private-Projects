@@ -1,0 +1,38 @@
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)D
+Sortierte zeichenkette : D
+die zeichenkette ist: 1 stellen lang
+In der Zeichenkette vorkommende Zeichen und deren Anzahl: D(1)
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)
+
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)Z
+falsche eingabe, bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)
+
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)TQTQTTYHDTCCCDDYTT
+Sortierte zeichenkette : CCCDDDHQQTTTTTTTYY
+die zeichenkette ist: 18 stellen lang
+In der Zeichenkette vorkommende Zeichen und deren Anzahl: C(3), D(3), H(1), Q(2), T(7), Y(2)
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)
+
+falsche eingabe, bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)ZZDTGHSTCBA
+falsche eingabe, bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)
+
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)HHHHHHHHHHHHHHHHH
+Sortierte zeichenkette : HHHHHHHHHHHHHHHHH
+die zeichenkette ist: 17 stellen lang
+In der Zeichenkette vorkommende Zeichen und deren Anzahl: H(17)
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)
+
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)CCCCCQQQQQQQQQQQQQTTTYYHHHHDDDDCCCQQ
+Sortierte zeichenkette : CCCCCCCCDDDDHHHHQQQQQQQQQQQQQQQTTTYY
+die zeichenkette ist: 36 stellen lang
+In der Zeichenkette vorkommende Zeichen und deren Anzahl: C(8), D(4), H(4), Q(15), T(3), Y(2)
+bitte geb ein zeichen ein(nur C,D,H,Q,T,Y)
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+←[2J←[1;1f←[0mStoppuhr startet mit 'S', Rundenzeit bekommen  mit 'Z' und stoppen mit 'X': ←[2J←[1;1f←[0mStoppuhr gestartet!←[2;1f←[0mStartzeit:23:12:01
+←[1;1f←[0mStoppuhr angehalten!←[2;1f←[0mGesamtzeit00m 05s\n
+
+========================================
+
+←[2J←[1;1f←[0mStoppuhr startet mit 'S', Rundenzeit bekommen  mit 'Z' und stoppen mit 'X': ←[2J←[1;1f←[0mStoppuhr gestartet!←[2;1f←[0mStartzeit:22:49:16
+←[2J←[1;1f←[0mRundenzeiten←[2;1f1 Zwischenzeit: Gesamtzeit: 00m 06s, Differenz: 00m 06s
+←[1;1f←[0mStoppuhr angehalten!←[2;1f←[0mRundenuebersicht:Startzeit: 22:49:16
+1. Zwischenzeit: 00m  6s
+2. Zwischenzeit: 00m 13s
+
+========================================
+
+←[2J←[1;1f←[0mStoppuhr startet mit 'S', Rundenzeit bekommen  mit 'Z' und stoppen mit 'X': ←[2J←[1;1f←[0mStoppuhr gestartet!←[2;1f←[0mStartzeit:23:12:58
+←[2J←[1;1f←[0mRundenzeiten←[2;1f1 Zwischenzeit: Gesamtzeit: 00m 04s, Differenz: 00m 04s
+←[2J←[1;1f←[0mRundenzeiten←[2;1f2 Zwischenzeit: Gesamtzeit: 00m 07s, Differenz: 00m 03s
+←[3;1f2 Zwischenzeit: Gesamtzeit: 00m 07s, Differenz: 00m 03s
+←[2J←[1;1f←[0mRundenzeiten←[2;1f3 Zwischenzeit: Gesamtzeit: 00m 10s, Differenz: 00m 03s
+←[3;1f3 Zwischenzeit: Gesamtzeit: 00m 10s, Differenz: 00m 03s
+←[4;1f3 Zwischenzeit: Gesamtzeit: 00m 10s, Differenz: 00m 03s
+←[2J←[1;1f←[0mRundenzeiten←[2;1f4 Zwischenzeit: Gesamtzeit: 00m 13s, Differenz: 00m 03s
+←[3;1f4 Zwischenzeit: Gesamtzeit: 00m 13s, Differenz: 00m 03s
+←[4;1f4 Zwischenzeit: Gesamtzeit: 00m 13s, Differenz: 00m 03s
+←[5;1f4 Zwischenzeit: Gesamtzeit: 00m 13s, Differenz: 00m 03s
+←[2J←[1;1f←[0mRundenzeiten←[2;1f5 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 03s
+←[3;1f5 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 03s
+←[4;1f5 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 03s
+←[5;1f5 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 03s
+←[6;1f5 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 03s
+←[1;1f←[0mStoppuhr angehalten!←[2;1f←[0mRundenuebersicht:Startzeit: 23:12:58
+1. Zwischenzeit: 00m  4s
+2. Zwischenzeit: 00m  7s
+3. Zwischenzeit: 00m 10s
+4. Zwischenzeit: 00m 13s
+5. Zwischenzeit: 00m 16s
+6. Zwischenzeit: 02m  7s
+
+
+========================================
+
+←[2J←[1;1f←[0mStoppuhr startet mit 'S', Rundenzeit bekommen  mit 'Z' und stoppen mit 'X': ←[2J←[1;1f←[0mStoppuhr gestartet!←[2;1f←[0mStartzeit:23:13:56
+←[1;1f←[0mFalsche eingabe, bitte nur 'S' 'Z' 'X' eingeben ←[2J←[1;1f←[0mRundenzeiten←[2;1f1 Zwischenzeit: Gesamtzeit: 00m 10s, Differenz: 00m 10s
+←[1;1f←[0mFalsche eingabe, bitte nur 'S' 'Z' 'X' eingeben ←[1;1f←[0mFalsche eingabe, bitte nur 'S' 'Z' 'X' eingeben ←[1;1f←[0mFalsche eingabe, bitte nur 'S' 'Z' 'X' eingeben ←[2J←[1;1f←[0mRundenzeiten←[2;1f2 Zwischenzeit: Gesamtzeit: 00m 15s, Differenz: 00m 05s
+←[3;1f2 Zwischenzeit: Gesamtzeit: 00m 15s, Differenz: 00m 05s
+←[2J←[1;1f←[0mRundenzeiten←[2;1f3 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 01s
+←[3;1f3 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 01s
+←[4;1f3 Zwischenzeit: Gesamtzeit: 00m 16s, Differenz: 00m 01s
+←[1;1f←[0mFalsche eingabe, bitte nur 'S' 'Z' 'X' eingeben ←[1;1f←[0mFalsche eingabe, bitte nur 'S' 'Z' 'X' eingeben ←[2J←[1;1f←[0mRundenzeiten←[2;1f4 Zwischenzeit: Gesamtzeit: 00m 19s, Differenz: 00m 03s
+←[3;1f4 Zwischenzeit: Gesamtzeit: 00m 19s, Differenz: 00m 03s
+←[4;1f4 Zwischenzeit: Gesamtzeit: 00m 19s, Differenz: 00m 03s
+←[5;1f4 Zwischenzeit: Gesamtzeit: 00m 19s, Differenz: 00m 03s
+←[1;1f←[0mStoppuhr angehalten!←[2;1f←[0mRundenuebersicht:Startzeit: 23:13:56
+1. Zwischenzeit: 00m 10s
+2. Zwischenzeit: 00m 15s
+3. Zwischenzeit: 00m 16s
+4. Zwischenzeit: 00m 19s
+5. Zwischenzeit: 113606m  8s

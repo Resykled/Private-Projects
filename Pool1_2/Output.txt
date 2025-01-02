@@ -1,0 +1,116 @@
+Geben sie bitte eine Datei groese ein (zb 10M fuer 10MByte, 10m fuer 10Mbit): 1024B
+Die Transferdazer fuer die Datei von 1024.00B betraegt:
+00 h 00 m 00 s bei 64 kbit/s
+00 h 00 m 00 s bei 2000 kbit/s
+00 h 00 m 00 s bei 16000 kbit/s
+00 h 00 m 00 s bei 100000 kbit/s
+
+Druecken sie die eingabe um das programm zu beenden
+
+================================================================================
+
+
+Geben sie bitte eine Datei groese ein (zb 10M fuer 10MByte, 10m fuer 10Mbit): 500K, 712k, 1024K, 13056K
+Die Transferdazer fuer die Datei von 500.00K betraegt:
+00 h 01 m 02 s bei 64 kbit/s
+00 h 00 m 02 s bei 2000 kbit/s
+00 h 00 m 00 s bei 16000 kbit/s
+00 h 00 m 00 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 712.00k betraegt:
+00 h 00 m 11 s bei 64 kbit/s
+00 h 00 m 00 s bei 2000 kbit/s
+00 h 00 m 00 s bei 16000 kbit/s
+00 h 00 m 00 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 1024.00K betraegt:
+00 h 02 m 08 s bei 64 kbit/s
+00 h 00 m 04 s bei 2000 kbit/s
+00 h 00 m 00 s bei 16000 kbit/s
+00 h 00 m 00 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 13056.00K betraegt:
+00 h 27 m 12 s bei 64 kbit/s
+00 h 00 m 52 s bei 2000 kbit/s
+00 h 00 m 06 s bei 16000 kbit/s
+00 h 00 m 01 s bei 100000 kbit/s
+
+Druecken sie die eingabe um das programm zu beenden
+
+================================================================================
+
+
+Geben sie bitte eine Datei groese ein (zb 10M fuer 10MByte, 10m fuer 10Mbit): 1M, 1000M, 1024m, 1056M
+Die Transferdazer fuer die Datei von 1.00M betraegt:
+00 h 02 m 05 s bei 64 kbit/s
+00 h 00 m 04 s bei 2000 kbit/s
+00 h 00 m 00 s bei 16000 kbit/s
+00 h 00 m 00 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 1000.00M betraegt:
+34 h 43 m 20 s bei 64 kbit/s
+01 h 06 m 40 s bei 2000 kbit/s
+00 h 08 m 20 s bei 16000 kbit/s
+00 h 01 m 20 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 1024.00m betraegt:
+04 h 26 m 40 s bei 64 kbit/s
+00 h 08 m 32 s bei 2000 kbit/s
+00 h 01 m 04 s bei 16000 kbit/s
+00 h 00 m 10 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 1056.00M betraegt:
+36 h 40 m 00 s bei 64 kbit/s
+01 h 10 m 24 s bei 2000 kbit/s
+00 h 08 m 48 s bei 16000 kbit/s
+00 h 01 m 24 s bei 100000 kbit/s
+
+Druecken sie die eingabe um das programm zu beenden
+
+================================================================================
+
+Geben sie bitte eine Datei groese ein (zb 10M fuer 10MByte, 10m fuer 10Mbit): 1G, 1000G, 1025g
+Die Transferdazer fuer die Datei von 1.00G betraegt:
+34 h 43 m 20 s bei 64 kbit/s
+01 h 06 m 40 s bei 2000 kbit/s
+00 h 08 m 20 s bei 16000 kbit/s
+00 h 01 m 20 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 1000.00G betraegt:
+34722 h 13 m 20 s bei 64 kbit/s
+1111 h 06 m 40 s bei 2000 kbit/s
+138 h 53 m 20 s bei 16000 kbit/s
+22 h 13 m 20 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 1025.00g betraegt:
+4448 h 47 m 05 s bei 64 kbit/s
+142 h 21 m 40 s bei 2000 kbit/s
+17 h 47 m 42 s bei 16000 kbit/s
+02 h 50 m 50 s bei 100000 kbit/s
+
+Druecken sie die eingabe um das programm zu beenden
+
+================================================================================
+
+Geben sie bitte eine Datei groese ein (zb 10M fuer 10MByte, 10m fuer 10Mbit): 1T,23T, 1024T
+Die Transferdazer fuer die Datei von 1.00T betraegt:
+34722 h 13 m 20 s bei 64 kbit/s
+1111 h 06 m 40 s bei 2000 kbit/s
+138 h 53 m 20 s bei 16000 kbit/s
+22 h 13 m 20 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 23.00T betraegt:
+798611 h 06 m 40 s bei 64 kbit/s
+25555 h 33 m 20 s bei 2000 kbit/s
+3194 h 26 m 40 s bei 16000 kbit/s
+511 h 06 m 40 s bei 100000 kbit/s
+Die Transferdazer fuer die Datei von 1024.00T betraegt:
+35555555 h 33 m 20 s bei 64 kbit/s
+1137777 h 46 m 40 s bei 2000 kbit/s
+142222 h 13 m 20 s bei 16000 kbit/s
+22755 h 33 m 20 s bei 100000 kbit/s
+
+Druecken sie die eingabe um das programm zu beenden
+
+
+
+
+
+
+
+
+
+
+
+

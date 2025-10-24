@@ -1,0 +1,1575 @@
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 49
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 6
+Bitte geben Sie 6 verschiedene Zahlen zwischen 1 und 49 ein:
+1
+3
+12
+13
+47
+49
+
+Ziehungsergebnis: 8 17 26 27 31 4219113
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+Anzahl der moeglichen Ziehungsergebnisse: 2053351
+
+Ziehung 2:
+Ziehungsergebnis: 27 30 31 36 43 4219113
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 3:
+Ziehungsergebnis: 3 15 22 27 40 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 4:
+Ziehungsergebnis: 1 14 24 29 30 46
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 5:
+Ziehungsergebnis: 5 21 31 38 48 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 6:
+Ziehungsergebnis: 8 18 20 34 42 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 7:
+Ziehungsergebnis: 20 26 34 36 42 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 8:
+Ziehungsergebnis: 2 6 26 36 41 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 9:
+Ziehungsergebnis: 7 15 24 30 31 38
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 10:
+Ziehungsergebnis: 13 17 30 31 36 38
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 11:
+Ziehungsergebnis: 1 17 29 30 36 41
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 12:
+Ziehungsergebnis: 30 31 36 37 41 46
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 13:
+Ziehungsergebnis: 3 5 16 25 26 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 14:
+Ziehungsergebnis: 10 15 26 32 46 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 15:
+Ziehungsergebnis: 15 24 29 42 43 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 16:
+Ziehungsergebnis: 4 11 18 34 36 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 17:
+Ziehungsergebnis: 15 19 34 36 37 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 18:
+Ziehungsergebnis: 5 12 15 18 39 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 19:
+Ziehungsergebnis: 7 14 15 24 36 40
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 20:
+Ziehungsergebnis: 5 11 18 21 28 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 21:
+Ziehungsergebnis: 8 17 31 34 39 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 22:
+Ziehungsergebnis: 2 8 26 28 41 42
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 23:
+Ziehungsergebnis: 16 18 20 27 31 44
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 24:
+Ziehungsergebnis: 6 9 21 35 37 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 25:
+Ziehungsergebnis: 14 20 24 25 33 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 26:
+Ziehungsergebnis: 7 11 18 25 35 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 27:
+Ziehungsergebnis: 8 25 31 35 39 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 28:
+Ziehungsergebnis: 6 17 21 38 39 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 29:
+Ziehungsergebnis: 4 13 26 37 43 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 30:
+Ziehungsergebnis: 23 27 30 35 38 42
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 31:
+Ziehungsergebnis: 14 15 17 37 38 42
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 32:
+Ziehungsergebnis: 2 13 25 39 44 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 33:
+Ziehungsergebnis: 10 13 14 23 30 42
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 34:
+Ziehungsergebnis: 12 21 26 27 31 42
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 35:
+Ziehungsergebnis: 5 17 27 31 42 44
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 36:
+Ziehungsergebnis: 3 15 16 20 44 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 37:
+Ziehungsergebnis: 1 9 17 21 34 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 38:
+Ziehungsergebnis: 1 17 18 21 27 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 39:
+Ziehungsergebnis: 3 19 24 39 40 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 40:
+Ziehungsergebnis: 8 13 21 28 29 36
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 41:
+Ziehungsergebnis: 6 29 36 37 42 43
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 42:
+Ziehungsergebnis: 5 16 18 27 30 36
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 43:
+Ziehungsergebnis: 7 15 18 26 29 38
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 44:
+Ziehungsergebnis: 2 8 26 27 36 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 45:
+Ziehungsergebnis: 5 6 27 36 40 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 46:
+Ziehungsergebnis: 7 15 20 26 27 39
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 47:
+Ziehungsergebnis: 23 27 38 39 43 46
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 48:
+Ziehungsergebnis: 5 13 15 35 37 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 49:
+Ziehungsergebnis: 18 19 21 24 39 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 50:
+Ziehungsergebnis: 2 6 19 21 24 33
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 51:
+Ziehungsergebnis: 5 15 17 30 34 46
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 52:
+Ziehungsergebnis: 13 29 32 36 44 46
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 53:
+Ziehungsergebnis: 1 9 13 14 15 29
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 54:
+Ziehungsergebnis: 11 21 22 27 28 43
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 55:
+Ziehungsergebnis: 4 16 22 32 36 41
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 56:
+Ziehungsergebnis: 8 9 22 40 47 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 57:
+Ziehungsergebnis: 3 39 40 46 47 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 57 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+
+
+=============================================================================================================
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 49
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 6
+Bitte geben Sie 6 verschiedene Zahlen zwischen 1 und 49 ein:
+3
+12
+13
+47
+49
+1
+
+Ziehungsergebnis: 14 32 36 37 4200613 4219113
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+Anzahl der moeglichen Ziehungsergebnisse: 2053351
+
+Ziehung 2:
+Ziehungsergebnis: 1 4 15 22 4200613 4219113
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 3:
+Ziehungsergebnis: 1 15 24 30 33 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 4:
+Ziehungsergebnis: 2 4 10 18 20 21
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 5:
+Ziehungsergebnis: 6 10 14 21 41 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 6:
+Ziehungsergebnis: 5 20 25 29 34 35
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 7:
+Ziehungsergebnis: 17 19 33 37 40 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 8:
+Ziehungsergebnis: 15 19 25 28 42 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 9:
+Ziehungsergebnis: 10 15 22 42 45 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 10:
+Ziehungsergebnis: 2 12 17 31 33 46
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 11:
+Ziehungsergebnis: 8 11 18 19 27 45
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 12:
+Ziehungsergebnis: 8 17 35 36 39 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 13:
+Ziehungsergebnis: 5 8 10 18 22 43
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 14:
+Ziehungsergebnis: 4 16 21 38 43 47
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 15:
+Ziehungsergebnis: 6 8 11 21 25 33
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 16:
+Ziehungsergebnis: 10 11 25 30 45 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 17:
+Ziehungsergebnis: 20 26 28 36 47 48
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 18:
+Ziehungsergebnis: 2 11 13 22 41 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 19:
+Ziehungsergebnis: 13 22 41 42 49 49
+Ihr Tipp: 1 3 12 13 47 49
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 19 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 49
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 6
+Bitte geben Sie 6 verschiedene Zahlen zwischen 1 und 49 ein:
+3
+12
+13
+47
+49
+20
+
+Ziehungsergebnis: 12 16 21 30 4200613 4219113
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+Anzahl der moeglichen Ziehungsergebnisse: 2053351
+
+Ziehung 2:
+Ziehungsergebnis: 15 16 18 24 33 40
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 3:
+Ziehungsergebnis: 2 10 18 23 25 38
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 4:
+Ziehungsergebnis: 2 8 10 17 18 19
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 5:
+Ziehungsergebnis: 1 8 13 19 37 40
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 6:
+Ziehungsergebnis: 3 17 24 34 43 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 7:
+Ziehungsergebnis: 1 21 25 35 38 43
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 8:
+Ziehungsergebnis: 13 14 18 19 33 34
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 9:
+Ziehungsergebnis: 11 26 31 41 43 46
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 10:
+Ziehungsergebnis: 5 9 10 18 31 34
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 11:
+Ziehungsergebnis: 10 18 30 31 34 38
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 12:
+Ziehungsergebnis: 13 17 26 38 38 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 13:
+Ziehungsergebnis: 13 19 34 38 46 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 14:
+Ziehungsergebnis: 5 21 25 26 36 44
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 15:
+Ziehungsergebnis: 1 5 13 19 39 45
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 16:
+Ziehungsergebnis: 2 8 22 37 41 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 17:
+Ziehungsergebnis: 7 20 22 37 41 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 18:
+Ziehungsergebnis: 6 8 15 20 32 34
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 19:
+Ziehungsergebnis: 7 22 23 39 40 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 20:
+Ziehungsergebnis: 9 21 23 33 45 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 21:
+Ziehungsergebnis: 1 6 19 24 36 38
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 22:
+Ziehungsergebnis: 3 9 13 15 22 41
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 23:
+Ziehungsergebnis: 2 15 21 34 40 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 24:
+Ziehungsergebnis: 1 20 32 39 46 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 25:
+Ziehungsergebnis: 15 19 22 35 39 40
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 26:
+Ziehungsergebnis: 6 11 14 17 47 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 27:
+Ziehungsergebnis: 14 17 23 39 47 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 28:
+Ziehungsergebnis: 15 23 39 43 47 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 29:
+Ziehungsergebnis: 10 11 34 44 47 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 30:
+Ziehungsergebnis: 3 17 20 28 36 39
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 31:
+Ziehungsergebnis: 1 17 25 28 41 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 32:
+Ziehungsergebnis: 1 7 12 30 36 44
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 33:
+Ziehungsergebnis: 6 21 22 30 36 44
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 34:
+Ziehungsergebnis: 16 26 28 31 41 46
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 35:
+Ziehungsergebnis: 8 10 12 28 39 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 36:
+Ziehungsergebnis: 16 20 31 33 34 35
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 37:
+Ziehungsergebnis: 7 23 27 29 38 42
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 38:
+Ziehungsergebnis: 14 20 21 38 42 43
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 39:
+Ziehungsergebnis: 2 13 23 33 35 40
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 40:
+Ziehungsergebnis: 5 10 12 19 34 38
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 41:
+Ziehungsergebnis: 15 17 33 36 42 46
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 42:
+Ziehungsergebnis: 2 14 42 46 46 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 43:
+Ziehungsergebnis: 8 21 37 46 48 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 44:
+Ziehungsergebnis: 12 27 40 46 47 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 45:
+Ziehungsergebnis: 1 19 26 27 29 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 46:
+Ziehungsergebnis: 1 8 22 25 39 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 47:
+Ziehungsergebnis: 18 24 32 41 46 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 48:
+Ziehungsergebnis: 11 16 20 31 34 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 49:
+Ziehungsergebnis: 8 9 10 11 19 20
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 50:
+Ziehungsergebnis: 13 18 24 35 41 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 51:
+Ziehungsergebnis: 4 26 27 28 38 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 52:
+Ziehungsergebnis: 2 3 16 32 36 45
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 53:
+Ziehungsergebnis: 8 13 23 24 26 41
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 54:
+Ziehungsergebnis: 8 11 33 43 44 45
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 55:
+Ziehungsergebnis: 7 11 33 43 44 45
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 56:
+Ziehungsergebnis: 3 4 6 22 32 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 57:
+Ziehungsergebnis: 2 5 10 29 34 43
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 58:
+Ziehungsergebnis: 1 4 8 12 41 42
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 59:
+Ziehungsergebnis: 22 35 36 40 46 47
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 60:
+Ziehungsergebnis: 10 11 15 21 30 32
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 61:
+Ziehungsergebnis: 8 19 24 25 27 28
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 62:
+Ziehungsergebnis: 3 4 7 34 35 49
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 63:
+Ziehungsergebnis: 4 6 7 32 46 48
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 64:
+Ziehungsergebnis: 12 13 15 20 28 30
+Ihr Tipp: 3 12 13 20 47 49
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 64 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 49
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 6
+Bitte geben Sie 6 verschiedene Zahlen zwischen 1 und 49 ein:
+12
+3
+13
+49
+19
+47
+
+Ziehungsergebnis: 8 23 25 43 46 49
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+Anzahl der moeglichen Ziehungsergebnisse: 2053351
+
+Ziehung 2:
+Ziehungsergebnis: 5 10 17 20 29 49
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 3:
+Ziehungsergebnis: 5 12 27 29 45 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 4:
+Ziehungsergebnis: 19 30 34 41 45 46
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 5:
+Ziehungsergebnis: 9 11 15 16 25 41
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 6:
+Ziehungsergebnis: 24 26 27 34 35 39
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 7:
+Ziehungsergebnis: 3 10 11 20 21 40
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 8:
+Ziehungsergebnis: 2 8 16 29 34 37
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 9:
+Ziehungsergebnis: 6 8 16 29 34 37
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 10:
+Ziehungsergebnis: 25 27 36 37 41 44
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 11:
+Ziehungsergebnis: 11 16 25 26 29 39
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 12:
+Ziehungsergebnis: 12 17 27 29 39 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 13:
+Ziehungsergebnis: 1 20 29 39 40 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 14:
+Ziehungsergebnis: 4 9 12 17 25 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 15:
+Ziehungsergebnis: 5 19 27 30 34 46
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 16:
+Ziehungsergebnis: 1 9 14 36 42 44
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 17:
+Ziehungsergebnis: 7 18 30 34 37 44
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 18:
+Ziehungsergebnis: 2 9 22 38 44 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 19:
+Ziehungsergebnis: 3 23 33 36 45 49
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 20:
+Ziehungsergebnis: 8 10 12 15 27 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 21:
+Ziehungsergebnis: 13 19 29 36 37 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 22:
+Ziehungsergebnis: 10 12 20 35 41 46
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 23:
+Ziehungsergebnis: 7 27 36 41 42 44
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 24:
+Ziehungsergebnis: 4 9 10 14 17 41
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 25:
+Ziehungsergebnis: 3 9 14 15 17 41
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 26:
+Ziehungsergebnis: 4 18 26 31 35 36
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 27:
+Ziehungsergebnis: 4 17 20 44 46 49
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 28:
+Ziehungsergebnis: 1 10 11 12 39 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 29:
+Ziehungsergebnis: 2 3 11 28 37 41
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 30:
+Ziehungsergebnis: 11 14 28 37 40 41
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 31:
+Ziehungsergebnis: 7 10 15 18 19 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 32:
+Ziehungsergebnis: 2 19 27 30 44 46
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 33:
+Ziehungsergebnis: 23 24 33 35 43 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 34:
+Ziehungsergebnis: 8 10 18 22 28 31
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 35:
+Ziehungsergebnis: 2 4 5 7 38 46
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 36:
+Ziehungsergebnis: 2 13 15 30 33 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 37:
+Ziehungsergebnis: 16 30 30 33 45 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 38:
+Ziehungsergebnis: 13 22 24 27 33 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 39:
+Ziehungsergebnis: 5 8 29 34 45 49
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 40:
+Ziehungsergebnis: 10 12 28 35 39 40
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 41:
+Ziehungsergebnis: 6 28 35 37 39 40
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 42:
+Ziehungsergebnis: 5 12 18 35 40 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 43:
+Ziehungsergebnis: 4 5 19 30 32 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 44:
+Ziehungsergebnis: 1 19 20 22 30 39
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 45:
+Ziehungsergebnis: 3 13 20 35 40 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 46:
+Ziehungsergebnis: 2 10 12 22 29 33
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 47:
+Ziehungsergebnis: 11 26 28 29 30 33
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 48:
+Ziehungsergebnis: 8 26 30 33 37 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 49:
+Ziehungsergebnis: 6 9 20 28 34 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 50:
+Ziehungsergebnis: 1 6 7 22 34 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 51:
+Ziehungsergebnis: 9 26 33 34 44 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 52:
+Ziehungsergebnis: 8 10 14 16 44 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 53:
+Ziehungsergebnis: 2 13 18 22 24 36
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 54:
+Ziehungsergebnis: 4 7 8 13 19 20
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 55:
+Ziehungsergebnis: 8 13 19 20 34 37
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 56:
+Ziehungsergebnis: 4 9 11 12 21 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 57:
+Ziehungsergebnis: 11 12 21 30 43 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 58:
+Ziehungsergebnis: 10 30 42 43 46 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 59:
+Ziehungsergebnis: 5 9 19 28 34 40
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 60:
+Ziehungsergebnis: 15 27 31 32 34 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 61:
+Ziehungsergebnis: 1 27 31 32 34 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 62:
+Ziehungsergebnis: 3 15 23 32 36 43
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 63:
+Ziehungsergebnis: 21 26 28 31 34 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 64:
+Ziehungsergebnis: 3 21 24 30 38 41
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 65:
+Ziehungsergebnis: 7 9 11 37 41 47
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 66:
+Ziehungsergebnis: 12 15 31 36 37 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 67:
+Ziehungsergebnis: 31 32 36 37 44 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 68:
+Ziehungsergebnis: 2 9 16 42 43 46
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 69:
+Ziehungsergebnis: 5 8 23 25 32 49
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 70:
+Ziehungsergebnis: 6 14 15 19 45 46
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 71:
+Ziehungsergebnis: 4 23 26 38 39 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 72:
+Ziehungsergebnis: 14 25 26 38 39 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 73:
+Ziehungsergebnis: 20 25 30 33 41 42
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 74:
+Ziehungsergebnis: 3 5 24 40 42 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 75:
+Ziehungsergebnis: 1 18 33 42 44 45
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 76:
+Ziehungsergebnis: 5 9 23 26 45 48
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 77:
+Ziehungsergebnis: 3 8 19 20 36 49
+Ihr Tipp: 3 12 13 19 47 49
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 77 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 49
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 6
+Bitte geben Sie 6 verschiedene Zahlen zwischen 1 und 49 ein:
+3
+12
+13
+47
+49
+12
+Die Zahl 12 ist bereits im Tipp vorhanden. Bitte eine andere Zahl eingeben:
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 49
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 6
+Bitte geben Sie 6 verschiedene Zahlen zwischen 1 und 49 ein:
+3
+12
+13
+47
+49
+51
+Ungueltige Zahl. Bitte eine Zahl zwischen 1 und 49 eingeben:
+
+=============================================================================================================
+
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 49
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 6
+Bitte geben Sie 6 verschiedene Zahlen zwischen 1 und 49 ein:
+17
+0
+Ungueltige Zahl. Bitte eine Zahl zwischen 1 und 49 eingeben:
+
+=============================================================================================================
+
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 63
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 7
+Bitte geben Sie 7 verschiedene Zahlen zwischen 1 und 63 ein:
+1
+3
+12
+13
+47
+49
+23
+
+Ziehungsergebnis: 22 40 45 46 58 4219113 6422196
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 0
+Anzahl der moeglichen Ziehungsergebnisse: 208414
+
+Ziehung 2:
+Ziehungsergebnis: 23 37 40 44 50 61 62
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 3:
+Ziehungsergebnis: 1 13 25 28 44 55 61
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 4:
+Ziehungsergebnis: 9 13 18 24 26 45 50
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 5:
+Ziehungsergebnis: 1 4 7 30 43 44 57
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 6:
+Ziehungsergebnis: 21 28 30 43 44 50 57
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 7:
+Ziehungsergebnis: 5 9 27 33 36 57 58
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 8:
+Ziehungsergebnis: 14 24 36 43 46 60 63
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 9:
+Ziehungsergebnis: 8 22 23 32 33 40 43
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 10:
+Ziehungsergebnis: 1 9 26 32 48 58 62
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 11:
+Ziehungsergebnis: 21 24 28 35 55 58 62
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 12:
+Ziehungsergebnis: 4 28 35 52 55 58 62
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 13:
+Ziehungsergebnis: 3 34 35 36 37 40 53
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 14:
+Ziehungsergebnis: 2 3 6 23 33 46 59
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 15:
+Ziehungsergebnis: 20 34 46 48 51 53 55
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 16:
+Ziehungsergebnis: 1 25 26 28 43 58 60
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 17:
+Ziehungsergebnis: 8 39 49 58 60 60 61
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 18:
+Ziehungsergebnis: 2 6 8 12 13 23 56
+Ihr Tipp: 1 3 12 13 23 47 49
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 18 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+=============================================================================================================
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 63
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 7
+Bitte geben Sie 7 verschiedene Zahlen zwischen 1 und 63 ein:
+3
+12
+13
+47
+49
+59
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 63
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 7
+Bitte geben Sie 7 verschiedene Zahlen zwischen 1 und 63 ein:
+3
+12
+13
+47
+49
+20
+21
+
+Ziehungsergebnis: 12 20 32 41 52 53 56
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 2
+Anzahl der moeglichen Ziehungsergebnisse: 208414
+
+Ziehung 2:
+Ziehungsergebnis: 3 9 15 24 37 50 55
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 3:
+Ziehungsergebnis: 1 6 29 35 38 52 60
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 4:
+Ziehungsergebnis: 12 14 15 28 37 39 44
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 5:
+Ziehungsergebnis: 5 12 21 34 36 43 59
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 6:
+Ziehungsergebnis: 6 11 15 38 40 49 61
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 7:
+Ziehungsergebnis: 17 20 29 34 38 42 61
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 8:
+Ziehungsergebnis: 31 32 42 46 48 60 63
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 9:
+Ziehungsergebnis: 3 7 29 30 33 43 57
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 10:
+Ziehungsergebnis: 10 12 13 21 24 32 38
+Ihr Tipp: 3 12 13 20 21 47 49
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 10 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 63
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 7
+Bitte geben Sie 7 verschiedene Zahlen zwischen 1 und 63 ein:
+12
+3
+13
+49
+19
+47
+63
+
+Ziehungsergebnis: 8 15 45 52 4200613 4219113 6422196
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+Anzahl der moeglichen Ziehungsergebnisse: 208414
+
+Ziehung 2:
+Ziehungsergebnis: 6 14 16 19 31 32 51
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 3:
+Ziehungsergebnis: 3 8 30 32 51 59 61
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 4:
+Ziehungsergebnis: 5 7 8 38 39 49 56
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 5:
+Ziehungsergebnis: 3 8 18 21 45 51 62
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 6:
+Ziehungsergebnis: 11 16 28 35 56 60 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 7:
+Ziehungsergebnis: 1 2 15 23 40 48 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 8:
+Ziehungsergebnis: 4 40 41 48 49 60 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 2
+
+Ziehung 9:
+Ziehungsergebnis: 10 43 50 52 53 54 62
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 10:
+Ziehungsergebnis: 2 6 38 46 54 56 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 11:
+Ziehungsergebnis: 32 46 52 54 54 56 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 12:
+Ziehungsergebnis: 6 24 28 38 53 54 59
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 13:
+Ziehungsergebnis: 18 23 24 31 38 59 60
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 14:
+Ziehungsergebnis: 7 8 23 28 42 46 51
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 15:
+Ziehungsergebnis: 2 14 18 23 26 60 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 16:
+Ziehungsergebnis: 23 26 34 36 59 60 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 17:
+Ziehungsergebnis: 1 12 25 32 38 46 56
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 18:
+Ziehungsergebnis: 12 16 20 22 32 38 55
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 1
+
+Ziehung 19:
+Ziehungsergebnis: 7 15 35 36 46 50 61
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 20:
+Ziehungsergebnis: 28 35 40 43 53 60 62
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 21:
+Ziehungsergebnis: 6 18 28 42 44 46 60
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 22:
+Ziehungsergebnis: 1 7 20 27 35 38 59
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 0
+
+Ziehung 23:
+Ziehungsergebnis: 3 12 26 42 59 59 63
+Ihr Tipp: 3 12 13 19 47 49 63
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 23 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 63
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 7
+Bitte geben Sie 7 verschiedene Zahlen zwischen 1 und 63 ein:
+3
+12
+13
+47
+49
+12
+Die Zahl 12 ist bereits im Tipp vorhanden. Bitte eine andere Zahl eingeben:
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 63
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 7
+Bitte geben Sie 7 verschiedene Zahlen zwischen 1 und 63 ein:
+3
+12
+13
+47
+49
+51
+67
+Ungueltige Zahl. Bitte eine Zahl zwischen 1 und 63 eingeben:
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 63
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 7
+Bitte geben Sie 7 verschiedene Zahlen zwischen 1 und 63 ein:
+17
+0
+Ungueltige Zahl. Bitte eine Zahl zwischen 1 und 63 eingeben:
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 9
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 4
+Bitte geben Sie 4 verschiedene Zahlen zwischen 1 und 9 ein:
+5
+5
+Die Zahl 5 ist bereits im Tipp vorhanden. Bitte eine andere Zahl eingeben:
+
+=============================================================================================================
+
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0): 9
+Bitte geben Sie die Anzahl der zu ziehenden Zahlen (k) ein(groesser als 0): 4
+Bitte geben Sie 4 verschiedene Zahlen zwischen 1 und 9 ein:
+1
+2
+3
+4
+
+Ziehungsergebnis: 4 9 16 32
+Ihr Tipp: 1 2 3 4
+Anzahl der richtig getippten Zahlen: 1
+Anzahl der moeglichen Ziehungsergebnisse: 126
+
+Ziehung 2:
+Ziehungsergebnis: 1 2 3 8
+Ihr Tipp: 1 2 3 4
+Anzahl der richtig getippten Zahlen: 3
+
+Herzlichen Glueckwunsch! Sie haben nach 2 Ziehungen mindestens 3 Richtige getippt.
+Bitte geben Sie die maximale Zahl (n) ein (groe├ƒer als 0):
+
+=============================================================================================================
+
+
+
+
+
+
+

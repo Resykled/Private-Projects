@@ -1,0 +1,321 @@
+ *  Executing task: powershell -c mingw32-make 
+
+gcc -Wall -Wextra -g -Iinclude -c -MMD src/main.c  -o src/main.o
+gcc -Wall -Wextra -g -Iinclude -o output\main.exe src/main.o  -Llib
+Executing 'all' complete!
+ *  Terminal will be reused by tasks, press any key to close it. 
+
+
+Eine leere Zeiterfassungsdatei einlesen:
+Es wird eine neue Datei angelegt falls keine vorhanden ist. siehe Zeile 24 Funktion appendLine
+
+Eine auswertbare Zeiterfassungsdatei einlesen, die mindestens einmal zwei aufeinanderfolgende start-Zeiten enthält
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 03:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 12:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 18:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   03:00:00
+Tatsaechliche Zeit: 06:00:00
+Arbeitszeitguthaben: +03:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j                       
+Bitte Sollzeit eingeben (Format HH:MM): 08:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 12:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 20:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   08:00:00
+Tatsaechliche Zeit: 08:00:00
+Arbeitszeitguthaben: +00:00:00
+================================
+
+Eine auswertbare Zeiterfassungsdatei einlesen, die mindestens einmal zwei aufeinanderfolgende end-Zeiten enthält
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 06:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-12 12:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-12 18:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   06:00:00
+Tatsaechliche Zeit: 06:00:00
+Arbeitszeitguthaben: +00:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 04:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-12 14:30:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-12 18:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   04:00:00
+Tatsaechliche Zeit: 03:30:00
+Arbeitszeitguthaben: -00:30:00
+================================
+
+
+Eine auswertbare Zeiterfassungsdatei einlesen, in der mindestens ein Endzeitpunkt auf dem Folgetag zum vorausgehenden Startzeitpunkt liegt
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 08:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-12 18:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-13 02:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   08:00:00
+Tatsaechliche Zeit: 08:00:00
+Arbeitszeitguthaben: +00:00:00
+================================
+
+Eine auswertbare Zeiterfassungsdatei einlesen, in der mindestens eine Differenz zwischen Start- und Endzeit größer als die erlaubte tägliche Arbeitszeit ist
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 10:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 08:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 22:00:00
+
+Achtung: Du hast mehr als 12 Stunden gearbeitet! (tatsaechlich: 14.00 Stunden)
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   10:00:00
+Tatsaechliche Zeit: 14:00:00
+Arbeitszeitguthaben: +04:00:00
+================================
+
+Eine auswertbare Zeiterfassungsdatei mit mindestens 10 aufeinander folgenden Arbeitszeiten an drei verschiedenen Arbeitstagen einlesen
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 03:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 08:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 12:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   03:00:00
+Tatsaechliche Zeit: 04:00:00
+Arbeitszeitguthaben: +01:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 04:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 08:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 16:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   04:00:00
+Tatsaechliche Zeit: 08:00:00
+Arbeitszeitguthaben: +04:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 06:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-14 08:30:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-14 19:45:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   06:00:00
+Tatsaechliche Zeit: 11:15:00
+Arbeitszeitguthaben: +05:15:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 04:30
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-14 17:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-14 22:20:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   04:30:00
+Tatsaechliche Zeit: 05:20:00
+Arbeitszeitguthaben: +00:50:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 01:45
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 09:45:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 16:20:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   01:45:00
+Tatsaechliche Zeit: 06:35:00
+Arbeitszeitguthaben: +04:50:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 03:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 07:40:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 09:00:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   03:00:00
+Tatsaechliche Zeit: 01:20:00
+Arbeitszeitguthaben: -01:40:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 04:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-09-18 09:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-09-18 17:23:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   04:00:00
+Tatsaechliche Zeit: 08:23:00
+Arbeitszeitguthaben: +04:23:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 09:00
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 10:15:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-03 10:45:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   09:00:00
+Tatsaechliche Zeit: 00:30:00
+Arbeitszeitguthaben: -08:30:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 04:35
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-09-18 13:24:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-09-18 18:45:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   04:35:00
+Tatsaechliche Zeit: 05:21:00
+Arbeitszeitguthaben: +00:46:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j  
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): j
+Bitte Sollzeit eingeben (Format HH:MM): 07:45
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-14 06:30:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-14 16:45:00
+
+========== AUSWERTUNG ==========
+Sollarbeitszeit:   07:45:00
+Tatsaechliche Zeit: 10:15:00
+Arbeitszeitguthaben: +02:30:00
+================================
+
+
+Eine Zeiterfassungsdatei mit mindestens 10 aufeinander folgenden Arbeitszeiten an drei verschiedenen Arbeitstagen einlesen, die aber keine Angabe zur Sollarbeitszeit enthält:
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 08:30:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 12:30:00
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   04:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 09:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 18:00:00
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   09:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 15:00:02
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-23 19:23:03
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   04:23:01
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-06-27 08:45:23
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-06-27 22:00:00
+
+Achtung: Du hast mehr als 12 Stunden gearbeitet! (tatsaechlich: 13.24 Stunden)
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   13:14:37
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-06-27 03:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-06-27 12:00:00
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   09:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-06-27 14:30:24
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2024-06-27 17:38:00
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   03:07:36
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 12:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 12:15:00
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   00:15:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 08:37:54
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 17:02:23
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   08:24:29
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 22:00:00
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-02 06:00:00
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   08:00:00
+================================
+
+Moechtest du eine neue Arbeitszeit erfassen? (j/n): j
+Moechtest du eine Sollarbeitszeit eingeben? (j/n): n
+Bitte Startzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 08:45:29
+Bitte Endzeit eingeben (Format YYYY-MM-DD HH:MM:SS): 2025-01-01 16:47:28
+
+========== AUSWERTUNG ==========
+Keine Sollarbeitszeit angegeben.
+Tatsaechliche Zeit:   08:01:59
+================================
+

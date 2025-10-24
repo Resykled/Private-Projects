@@ -1,0 +1,31 @@
+Programm zur Dreiecksberechnung im Raum.
+Koordinaten von A (x y z): 0 0 0
+Koordinaten von B (x y z): 1 1 1
+Koordinaten von C (x y z): 1 -1 0
+Seitenlaengen: |AB|=1.7321, |BC|=2.2361, |CA|=1.4142
+Umfang U = 5.3823
+Flaecheninhalt F = 1.2247
+Innenwinkel (in Grad):
+  phiA = 90.00┬░
+  phiB = 39.23┬░
+  phiC = 50.77┬░
+Inkreismittelpunkt MI = (0.5846, -0.0591, 0.2628), rI = 0.4551
+Schwerpunkt S = (0.6667, 0.0000, 0.3333)
+Umkreismittelpunkt MU = (1.0000, 0.0000, 0.5000), rU = 1.1180
+Programm zur Dreiecksberechnung im Raum.
+Koordinaten von A (x y z):
+
+
+=============================================================================================================
+Programm zur Dreiecksberechnung im Raum.
+Koordinaten von A (x y z): 1 1 1
+Koordinaten von B (x y z): 0 3 1
+Koordinaten von C (x y z): 2 -1 0
+Fehler: Die Punkte geben kein  gültiges Dreieck aus.
+
+=============================================================================================================
+Programm zur Dreiecksberechnung im Raum.
+Koordinaten von A (x y z): 1 1 1
+Koordinaten von B (x y z): 1 1 1
+Koordinaten von C (x y z): 1 1 1
+Fehler: Die Punkte geben kein  gültiges Dreieck aus.
